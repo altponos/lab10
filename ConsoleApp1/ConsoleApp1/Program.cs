@@ -8,3 +8,4 @@ JObject o = new JObject();
 o["MyArray"] = array;
 
 string json = o.ToString();
+Console.WriteLine(json);
