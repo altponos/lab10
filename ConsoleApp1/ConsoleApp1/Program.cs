@@ -9,3 +9,5 @@ o["NeArray"] = array;
 
 string json = o.ToString();
 Console.WriteLine(json);
+
+Console.WriteLine(0 / int.Parse("0"));
